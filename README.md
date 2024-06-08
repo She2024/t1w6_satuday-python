@@ -26,3 +26,23 @@ Example: Counting coind in your piggy bank
 
 # While loop
 While the condition is met, keep executing the intended block. If not met, skip the block.
+
+## Range
+It's a pre-defined function that generates a sequence of numbers.
+
+Useful: Loops for iterating a specific number of times over a sequence of numbers.
+
+range(start, stop,step)
+
+## For Loop
+For each item in a sequence, execute the intended statements. (counting cannot work with float only whole numbers)
+
+for variable_name in sequence:
+    stmts
+
+## Practice Example 1
+Finding the sum of the first ten numbers (1, 2, ... 10)     
+
+## Practice Example 1
+Finding the largest number in the list
+list = [3, 41, 12, 9, 74, 15]
